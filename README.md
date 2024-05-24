@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive Sudoku game built with Python, featuring a graphical interface using pygame and an integrated Sudoku solver using the backtracking algorithm. The game allows users to play Sudoku with different difficulty levels and provides an option to solve any given Sudoku puzzle.
+This project is a comprehensive Sudoku game built with Python, featuring a graphical interface using pygame library and an integrated Sudoku solver using the backtracking algorithm. The game allows users to play Sudoku with different difficulty levels and provides an option to solve any given Sudoku puzzle.
 
 ## Features
 
