@@ -22,12 +22,18 @@ This project is a comprehensive Sudoku game built with Python, featuring a graph
 - **Graphics**: pygame library for GUI
 - **Algorithm**: Backtracking algorithm for Sudoku solver
 
+## Installation
+
+- Ensure you have Python installed on your system & pygame library in it.
+- Clone this repository to your local machine.
+- Navigate to the directory containing the files.
+
 ## Usage
 
 1. **Run the Game**:
-    - Execute the main script to start the game:
+    - Execute the GUI script to start the game:
     ```bash
-    python main.py
+    python GUI.py
     ```
 
 2. **Game Instructions**:
